@@ -1,7 +1,9 @@
 import React from 'react';
-//import  './menu.scss';
+import  './menu.scss';
 export default class Menu extends React.Component {
+    
     render(){
-        return ( <div>singh</div>)
+       // console.log(styles);
+        return ( <div className= "menu">singh</div>)
     }
 }
