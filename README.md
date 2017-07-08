@@ -6,3 +6,4 @@ babel
 yarn
 react
 ES6
+scss
